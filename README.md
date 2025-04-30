@@ -18,8 +18,8 @@ layout:
     visible: true
 ---
 
-# Welcome PMS Admin
+# Welcome PMS
 
-PMS 관리자매뉴얼입니다.&#x20;
+PMS 사용자 매뉴얼입니다.&#x20;
 
 PMS를 사용해주셔서 감사합니다.
