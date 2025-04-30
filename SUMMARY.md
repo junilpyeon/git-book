@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome PMS](README.md)
+* [Welcome](README.md)
 
 ## 작업 의뢰 조회 <a href="#commissions" id="commissions"></a>
 
