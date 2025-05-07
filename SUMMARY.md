@@ -12,4 +12,4 @@
 ## 의뢰 검토 & 배정 <a href="#tasks" id="tasks"></a>
 
 * [의뢰 검토 & 배정 조회](tasks/and.md)
-* [상세정보](tasks/detail.md)
+* [작업 의뢰 상세정보](tasks/detail.md)
