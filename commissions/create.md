@@ -7,7 +7,7 @@ icon: pencil
 
 <figure><img src="../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
-description: 모든 사원이 신규 작업을 작성할 수 있습니다.
+**description: 모든 사원이 신규 작업을 작성할 수 있습니다.**
 
 
 

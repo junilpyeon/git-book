@@ -7,7 +7,7 @@ icon: magnifying-glass
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-description: 작업의 배정담당자와 배정된 사원이 작업 리스트를 확인합니다.
+**description: 작업의 배정담당자와 배정된 사원이 작업 리스트를 확인합니다.**
 
 
 

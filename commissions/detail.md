@@ -9,7 +9,7 @@ icon: file-circle-info
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-description : 작업작성자, 영업 담당자, 배정담당자는 작업 의뢰 상세정보를 확인할 수 있습니다.
+**description : 작업작성자, 영업 담당자, 배정담당자는 작업 의뢰 상세정보를 확인할 수 있습니다.**
 
 
 

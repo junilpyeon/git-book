@@ -7,7 +7,7 @@ icon: magnifying-glass
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-description: 작업 의뢰를 작성한 사원이나 영업 담당자로 지정된 사원의 작업 리스트를 확인합니다.
+**description: 작업 의뢰를 작성한 사원이나 영업 담당자로 지정된 사원의 작업 리스트를 확인합니다.**
 
 
 
