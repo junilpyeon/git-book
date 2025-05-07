@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome PMS Admin](README.md)
+* [PMS 관리자 매뉴얼](README.md)
 
 ## 관리자 메뉴 <a href="#admin" id="admin"></a>
 
