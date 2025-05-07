@@ -7,7 +7,7 @@ icon: calculator
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-description : 사업 카테고리, 등급별 단금(일)을 수정합니다.
+**description : 사업 카테고리, 등급별 단금(일)을 수정합니다.**
 
 
 
