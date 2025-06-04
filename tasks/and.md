@@ -5,18 +5,12 @@ icon: magnifying-glass
 
 # 의뢰 검토 & 배정 조회
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
-
-**description: 작업의 배정담당자와 배정된 사원이 작업 리스트를 확인합니다.**
-
-
-
 **의뢰 검토 & 배정**
 
 
 * 사업카테고리, 작업진행상태, 수요 기관, 발주처, 작업의뢰일자, 공고일자를 선택하여 작업 리스트를 확인합니다.
 
-
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p><strong>작업의 배정담당자와 배정된 사원이 작업 리스트를 확인합니다.</strong></p></figcaption></figure>
 
 ### **작업 의뢰 리스트 항목**&#xD;
 

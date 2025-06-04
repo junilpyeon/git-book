@@ -7,12 +7,6 @@ icon: file-circle-info
 
 
 
-**description : 작업작성자, 영업 담당자, 배정담당자는 작업 의뢰 상세정보를 확인할 수 있습니다.**
-
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
-
 ## **상세정보**
 
 * 사업 공고 내용
@@ -22,6 +16,10 @@ icon: file-circle-info
 * 제안서 작성 지원(요청 사항)
 * 기타 사항
 * 사업참여 VRB 자체평가표
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p><strong>작업작성자, 영업 담당자, 배정담당자는 작업 의뢰 상세정보를 확인할 수 있습니다.</strong></p></figcaption></figure>
 
 
 

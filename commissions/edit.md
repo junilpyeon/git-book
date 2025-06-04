@@ -5,13 +5,11 @@ icon: pen-circle
 
 # 작업 의뢰 수정
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
-
 ## **작업 수정하기**
 
 * 작성한 작업의 내용을 수정하고 변경 내용을 저장합니다.
 
-
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 ### **작업 의뢰 단계 변경**
 
