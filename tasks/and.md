@@ -5,7 +5,7 @@ icon: magnifying-glass
 
 # 의뢰 검토 & 배정 조회
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **description: 작업의 배정담당자와 배정된 사원이 작업 리스트를 확인합니다.**
 
