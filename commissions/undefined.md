@@ -11,14 +11,14 @@ icon: magnifying-glass
 
 
 
-**작업 의뢰 조회**
+## **작업 의뢰 조회**
 
 * 사업카테고리, 작업진행상태, 수요 기관, 발주처, 작업의뢰일자, 공고일자를 선택하여  작업 리스트를 확인합니다.
 * 공고일자: 제안공고일자 \~ 제안서마감일시
 
 
 
-**작업  의뢰 리스트 항목**
+### **작업  의뢰 리스트 항목**
 
 * 작업 진척률 : 작업 배정자들의 작업 진척률 평균입니다.
 * 작업 진행상태 : 요청중, <mark style="color:yellow;">배정중</mark>, <mark style="color:green;">작업중</mark>, <mark style="color:blue;">작업완료</mark>, <mark style="color:red;">반려</mark> 단계로 나눠집니다.

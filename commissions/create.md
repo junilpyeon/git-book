@@ -11,7 +11,7 @@ icon: pencil
 
 
 
-**사업 공고 내용**
+## **사업 공고 내용**
 
 * 발주유형 : 공공, 민간, 기타 선택에 따라 필수 값이 달라집니다.
 * 발주처, 수요 기관 : 등록된 거래처 이름으로 검색하여 선택합니다.
@@ -34,7 +34,7 @@ icon: pencil
 
 <figure><img src="../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
-**사업 정보**&#x20;
+## **사업 정보**&#x20;
 
 * 사업 카테고리 : 선택한 사업에 따라 담당자가 달라집니다.
 * 인력 요청: 분류, 등급, 인원수, 투입공수(MD)를 작성시 내부비용(Pre)가 계산됩니다.
@@ -45,7 +45,7 @@ icon: pencil
 
 <figure><img src="../.gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure>
 
-**참고 사항,  제안서 작성 지원(요청 사항)**
+## **참고 사항,  제안서 작성 지원(요청 사항)**
 
 
 
@@ -55,6 +55,6 @@ icon: pencil
 
 <figure><img src="../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
 
-**사업참여 VRB 자체평가표**
+## **사업참여 VRB 자체평가표**
 
 * 전략적 중요도, 가격 경쟁력, 고객관계, 기술 역량을 평가하여 확실, 우세, 동등, 열세 평가를 받습니다
