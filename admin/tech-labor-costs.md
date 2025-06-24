@@ -5,15 +5,26 @@ icon: calculator
 
 # 기술별 인건비 관리
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-**description : 사업 카테고리, 등급별 단금(일)을 수정합니다.**
-
-
-
 **기술별 인건비 관리 목록**
 
-* 사업 카테고리
+화면에서 사업카테고리, 등급 항목을 선택하고 단금(일), 비고를 선택하여 수정할 수 있습니다.
+
+* 사업 카테고리\
+  -상품-내부인력\
+  -상품-외부인력\
+  -컨설팅-내부인력\
+  -컨설팅-외부인력\
+  -SI 사업\
+  -유지보수-내부인력-상주\
+  -유지보수-내부인력-비상주\
+  -유지보수-외부인력-외부\
+  -유지보수-부품판매\
+  -공사\
+  -기타\
+  -관제\
+  -프로젝트 경비
 * 등급명 : 특급, 고급, 중급2, 중급1, 초급
 * 단금(월)
 * 비고
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
