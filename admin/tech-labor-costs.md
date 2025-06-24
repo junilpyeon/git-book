@@ -5,7 +5,7 @@ icon: calculator
 
 # 기술별 인건비 관리
 
-**기술별 인건비 관리 목록**
+사업카테고리사업카테고리**기술별 인건비 관리 목록**
 
 화면에서 사업카테고리, 등급 항목을 선택하고 단금(일), 비고를 선택하여 수정할 수 있습니다.
 
@@ -27,4 +27,4 @@ icon: calculator
 * 단금(월)
 * 비고
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>사업카테고리, 등급별 단금, 비고 수정</p></figcaption></figure>
