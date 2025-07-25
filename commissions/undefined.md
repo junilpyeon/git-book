@@ -1,6 +1,5 @@
 ---
 description: (사업, 제안서) 의뢰 작성자와 영업 담당자가 의뢰를 조회할 수 있습니다.
-icon: magnifying-glass
 ---
 
 # 작업 의뢰 조회

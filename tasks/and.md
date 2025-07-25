@@ -1,6 +1,5 @@
 ---
 description: 배정담당자와 배정된 사원이 의뢰 검토, 배정 화면을 조회합니다.
-icon: magnifying-glass
 ---
 
 # 의뢰 검토 & 배정 조회
