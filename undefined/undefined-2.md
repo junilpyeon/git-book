@@ -6,9 +6,9 @@ description: 배정된 작업자가 요청한 작업을 수락 또는 거절 후
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-### **작업 일지 상세**
+### **작업 일지 리스트**
 
-* 배정 정보 : 배정정보를 확인 후 수락이나 거절합니다.
+* 작업자가 본인에게 배정된 리스트를 확인 후 항목으로 이동합니다.
 
 
 
